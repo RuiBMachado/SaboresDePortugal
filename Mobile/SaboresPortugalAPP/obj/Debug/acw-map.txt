@@ -1,0 +1,16 @@
+SaboresPortugalAPP.MainActivity, SaboresPortugalAPP;md5ed533ed78f031664de1659d84e41859f.MainActivity
+SaboresPortugalAPP.MainActivity, SaboresPortugalAPP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ed533ed78f031664de1659d84e41859f.MainActivity
+SaboresPortugalAPP.MainActivity;md5ed533ed78f031664de1659d84e41859f.MainActivity
+saboresportugalapp.MainActivity;md5ed533ed78f031664de1659d84e41859f.MainActivity
+SaboresPortugalAPP.Resources.layout.Critica, SaboresPortugalAPP;md54937ced3a9ffcc345ba5ae92cfe6331d.Critica
+SaboresPortugalAPP.Resources.layout.Critica, SaboresPortugalAPP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54937ced3a9ffcc345ba5ae92cfe6331d.Critica
+SaboresPortugalAPP.Resources.layout.Critica;md54937ced3a9ffcc345ba5ae92cfe6331d.Critica
+saboresportugalapp.resources.layout.Critica;md54937ced3a9ffcc345ba5ae92cfe6331d.Critica
+SaboresPortugalAPP.Resources.layout.Mapa, SaboresPortugalAPP;md54937ced3a9ffcc345ba5ae92cfe6331d.Mapa
+SaboresPortugalAPP.Resources.layout.Mapa, SaboresPortugalAPP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54937ced3a9ffcc345ba5ae92cfe6331d.Mapa
+SaboresPortugalAPP.Resources.layout.Mapa;md54937ced3a9ffcc345ba5ae92cfe6331d.Mapa
+saboresportugalapp.resources.layout.Mapa;md54937ced3a9ffcc345ba5ae92cfe6331d.Mapa
+SaboresPortugalAPP.Resources.layout.Tarefa, SaboresPortugalAPP;md54937ced3a9ffcc345ba5ae92cfe6331d.Tarefa
+SaboresPortugalAPP.Resources.layout.Tarefa, SaboresPortugalAPP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54937ced3a9ffcc345ba5ae92cfe6331d.Tarefa
+SaboresPortugalAPP.Resources.layout.Tarefa;md54937ced3a9ffcc345ba5ae92cfe6331d.Tarefa
+saboresportugalapp.resources.layout.Tarefa;md54937ced3a9ffcc345ba5ae92cfe6331d.Tarefa
