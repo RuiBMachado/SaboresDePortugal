@@ -1,0 +1,22 @@
+c:\users\alexandre mirra\documents\visual studio 2015\Projects\SaboresPortugalGui\SaboresPortugalGui\bin\Debug\SaboresPortugalGui.exe.config
+c:\users\alexandre mirra\documents\visual studio 2015\Projects\SaboresPortugalGui\SaboresPortugalGui\bin\Debug\SaboresPortugalGui.exe
+c:\users\alexandre mirra\documents\visual studio 2015\Projects\SaboresPortugalGui\SaboresPortugalGui\bin\Debug\SaboresPortugalGui.pdb
+c:\users\alexandre mirra\documents\visual studio 2015\Projects\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.csprojResolveAssemblyReference.cache
+c:\users\alexandre mirra\documents\visual studio 2015\Projects\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.Form1.resources
+c:\users\alexandre mirra\documents\visual studio 2015\Projects\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.Properties.Resources.resources
+c:\users\alexandre mirra\documents\visual studio 2015\Projects\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.csproj.GenerateResource.Cache
+c:\users\alexandre mirra\documents\visual studio 2015\Projects\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.exe
+c:\users\alexandre mirra\documents\visual studio 2015\Projects\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.pdb
+C:\Users\Rui Machado\Desktop\LI4\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\bin\Debug\SaboresPortugalGui.exe.config
+C:\Users\Rui Machado\Desktop\LI4\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.exe
+C:\Users\Rui Machado\Desktop\LI4\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.pdb
+C:\Users\Rui Machado\Desktop\LI4\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\bin\Debug\SaboresPortugalGui.exe
+C:\Users\Rui Machado\Desktop\LI4\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\bin\Debug\SaboresPortugalGui.pdb
+C:\Users\Rui Machado\Desktop\LI4\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.csprojResolveAssemblyReference.cache
+C:\Users\Rui Machado\Desktop\LI4\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.View.DefinePlano.resources
+C:\Users\Rui Machado\Desktop\LI4\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.Inicial.resources
+C:\Users\Rui Machado\Desktop\LI4\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.Properties.Resources.resources
+C:\Users\Rui Machado\Desktop\LI4\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.csproj.GenerateResource.Cache
+C:\Users\Rui Machado\Desktop\LI4\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.View.ApresentaDados.resources
+C:\Users\Rui Machado\Desktop\LI4\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.View.DadosRecolhidos.resources
+C:\Users\Rui Machado\Desktop\LI4\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.EnviaDados.resources
