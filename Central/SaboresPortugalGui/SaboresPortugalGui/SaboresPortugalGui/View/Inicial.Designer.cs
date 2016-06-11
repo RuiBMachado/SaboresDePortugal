@@ -33,7 +33,6 @@
             this.ConsultarDados = new System.Windows.Forms.Button();
             this.EnviarDados = new System.Windows.Forms.Button();
             this.ReceberDados = new System.Windows.Forms.Button();
-            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -125,7 +124,6 @@
         private System.Windows.Forms.Button ConsultarDados;
         private System.Windows.Forms.Button EnviarDados;
         private System.Windows.Forms.Button ReceberDados;
-        private System.ComponentModel.BackgroundWorker backgroundWorker1;
         private System.Windows.Forms.PictureBox pictureBox1;
     }
 }

@@ -33,9 +33,9 @@
             this.button2 = new System.Windows.Forms.Button();
             this.listView1 = new System.Windows.Forms.ListView();
             this.ID = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.button3 = new System.Windows.Forms.Button();
             this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader2 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.button3 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -64,7 +64,7 @@
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F);
-            this.button2.Location = new System.Drawing.Point(589, 560);
+            this.button2.Location = new System.Drawing.Point(575, 560);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(247, 51);
             this.button2.TabIndex = 4;
@@ -91,6 +91,16 @@
             this.ID.Text = "ID";
             this.ID.Width = 38;
             // 
+            // columnHeader1
+            // 
+            this.columnHeader1.Text = "Data Inicio";
+            this.columnHeader1.Width = 294;
+            // 
+            // columnHeader2
+            // 
+            this.columnHeader2.Text = "Data Fim";
+            this.columnHeader2.Width = 217;
+            // 
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F);
@@ -101,16 +111,6 @@
             this.button3.Text = "Actualizar";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
-            // 
-            // columnHeader1
-            // 
-            this.columnHeader1.Text = "Data Inicio";
-            this.columnHeader1.Width = 294;
-            // 
-            // columnHeader2
-            // 
-            this.columnHeader2.Text = "Data Fim";
-            this.columnHeader2.Width = 217;
             // 
             // DadosRecolhidos
             // 

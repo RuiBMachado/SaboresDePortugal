@@ -20,3 +20,17 @@ C:\Users\Rui Machado\Desktop\LI4\SaboresPortugalGui\SaboresPortugalGui\SaboresPo
 C:\Users\Rui Machado\Desktop\LI4\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.View.ApresentaDados.resources
 C:\Users\Rui Machado\Desktop\LI4\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.View.DadosRecolhidos.resources
 C:\Users\Rui Machado\Desktop\LI4\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.EnviaDados.resources
+C:\Users\Rui Machado\Desktop\LI4\Central\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\bin\Debug\SaboresPortugalGui.exe.config
+C:\Users\Rui Machado\Desktop\LI4\Central\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.exe
+C:\Users\Rui Machado\Desktop\LI4\Central\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.pdb
+C:\Users\Rui Machado\Desktop\LI4\Central\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.csprojResolveAssemblyReference.cache
+C:\Users\Rui Machado\Desktop\LI4\Central\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.EnviaDados.resources
+C:\Users\Rui Machado\Desktop\LI4\Central\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.View.ApresentaDados.resources
+C:\Users\Rui Machado\Desktop\LI4\Central\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.View.DadosRecolhidos.resources
+C:\Users\Rui Machado\Desktop\LI4\Central\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.View.DefinePlano.resources
+C:\Users\Rui Machado\Desktop\LI4\Central\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.Inicial.resources
+C:\Users\Rui Machado\Desktop\LI4\Central\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.Properties.Resources.resources
+C:\Users\Rui Machado\Desktop\LI4\Central\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.csproj.GenerateResource.Cache
+C:\Users\Rui Machado\Desktop\LI4\Central\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\bin\Debug\SaboresPortugalGui.exe
+C:\Users\Rui Machado\Desktop\LI4\Central\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\bin\Debug\SaboresPortugalGui.pdb
+C:\Users\Rui Machado\Desktop\LI4\Central\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.View.EnviarEmail.resources

@@ -48,6 +48,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -59,6 +61,7 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="View\EnviaDados.cs">
@@ -66,6 +69,12 @@
     </Compile>
     <Compile Include="View\EnviaDados.Designer.cs">
       <DependentUpon>EnviaDados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\EnviarEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\EnviarEmail.Designer.cs">
+      <DependentUpon>EnviarEmail.cs</DependentUpon>
     </Compile>
     <Compile Include="WebsocketServer.cs" />
     <Compile Include="DataAccess\RestauranteDAO.cs" />
@@ -114,6 +123,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="View\DefinePlano.resx">
       <DependentUpon>DefinePlano.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\EnviarEmail.resx">
+      <DependentUpon>EnviarEmail.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\Inicial.resx">
       <DependentUpon>Inicial.cs</DependentUpon>
