@@ -38,4 +38,45 @@ F:\Users\Alexandre Mirra\Documents\Visual Studio 2015\Projects\SaboresPortugalAP
 F:\Users\Alexandre Mirra\Documents\Visual Studio 2015\Projects\SaboresPortugalAPP\SaboresPortugalAPP\obj\Debug\android\assets\System.Xml.dll.mdb
 F:\Users\Alexandre Mirra\Documents\Visual Studio 2015\Projects\SaboresPortugalAPP\SaboresPortugalAPP\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
 F:\Users\Alexandre Mirra\Documents\Visual Studio 2015\Projects\SaboresPortugalAPP\SaboresPortugalAPP\obj\Debug\SaboresPortugalAPP.dll.mdb
-F:\Users\Alexandre Mirra\Documents\Visual Studio 2015\Projects\SaboresPortugalAPP\SaboresPortugalAPP\bin\Debug\SaboresPortugalAPP.dll.mdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\bin\Debug\SaboresPortugalAPP.dll
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\bin\Debug\SaboresPortugalAPP.pdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\bin\Debug\SaboresPortugalAPP.SaboresPortugalAPP.apk
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\bin\Debug\SaboresPortugalAPP.SaboresPortugalAPP-Signed.apk
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\SaboresPortugalAPP.dll
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\SaboresPortugalAPP.pdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\android\bin\SaboresPortugalAPP.SaboresPortugalAPP.apk
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\res\layout\mainmenugui.xml
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\res\layout\tarefagui.xml
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\res\layout\mapagui.xml
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\res\layout\criticagui.xml
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\res\values\strings.xml
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\res\drawable\icon.png
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\R.cs.flag
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\uploadflags.txt
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\bin\Debug\Java.Interop.dll.mdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\bin\Debug\Mono.Android.dll.mdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\bin\Debug\mscorlib.dll.mdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\bin\Debug\SaboresPortugalAPP.dll.mdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\bin\Debug\System.ComponentModel.Composition.dll.mdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\bin\Debug\System.Core.dll.mdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\bin\Debug\System.dll.mdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\bin\Debug\System.Net.Http.dll.mdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\bin\Debug\System.Runtime.Serialization.dll.mdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\bin\Debug\System.ServiceModel.Internals.dll.mdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\bin\Debug\System.Xml.dll.mdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\bin\Debug\System.Xml.Linq.dll.mdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\android\assets\Java.Interop.dll.mdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\android\assets\Mono.Android.dll.mdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\android\assets\mscorlib.dll.mdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\android\assets\SaboresPortugalAPP.dll.mdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\android\assets\System.Core.dll.mdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\android\assets\System.dll.mdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\android\assets\System.Net.Http.dll.mdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\android\assets\System.Xml.dll.mdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\SaboresPortugalAPP.csprojResolveAssemblyReference.cache
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\SaboresPortugalAPP.dll.mdb
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\bin\Debug\SaboresPortugalAPP.dll.mdb
