@@ -1,0 +1,13 @@
+C:\Users\Rui Machado\Downloads\BlaBlaBla-master\BlaBlaBla-master\Central\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\bin\Debug\SaboresPortugalGui.exe.config
+C:\Users\Rui Machado\Downloads\BlaBlaBla-master\BlaBlaBla-master\Central\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.exe
+C:\Users\Rui Machado\Downloads\BlaBlaBla-master\BlaBlaBla-master\Central\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.pdb
+C:\Users\Rui Machado\Downloads\BlaBlaBla-master\BlaBlaBla-master\Central\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\bin\Debug\SaboresPortugalGui.exe
+C:\Users\Rui Machado\Downloads\BlaBlaBla-master\BlaBlaBla-master\Central\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\bin\Debug\SaboresPortugalGui.pdb
+C:\Users\Rui Machado\Downloads\BlaBlaBla-master\BlaBlaBla-master\Central\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.EnviaDados.resources
+C:\Users\Rui Machado\Downloads\BlaBlaBla-master\BlaBlaBla-master\Central\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.View.ApresentaDados.resources
+C:\Users\Rui Machado\Downloads\BlaBlaBla-master\BlaBlaBla-master\Central\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.View.DadosRecolhidos.resources
+C:\Users\Rui Machado\Downloads\BlaBlaBla-master\BlaBlaBla-master\Central\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.View.DefinePlano.resources
+C:\Users\Rui Machado\Downloads\BlaBlaBla-master\BlaBlaBla-master\Central\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.View.EnviarEmail.resources
+C:\Users\Rui Machado\Downloads\BlaBlaBla-master\BlaBlaBla-master\Central\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.Inicial.resources
+C:\Users\Rui Machado\Downloads\BlaBlaBla-master\BlaBlaBla-master\Central\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui.Properties.Resources.resources
+C:\Users\Rui Machado\Downloads\BlaBlaBla-master\BlaBlaBla-master\Central\SaboresPortugalGui\SaboresPortugalGui\SaboresPortugalGui\obj\Debug\SaboresPortugalGui1.csproj.GenerateResource.Cache
