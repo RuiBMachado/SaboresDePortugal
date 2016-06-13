@@ -24,7 +24,7 @@
         android:layout_marginBottom="19.0dp" />
     <EditText
         android:layout_width="match_parent"
-        android:layout_height="249.0dp"
+        android:layout_height="206.5dp"
         android:id="@+id/editText1" />
     <Button
         android:text="Imagens"

@@ -26,6 +26,7 @@ namespace SaboresPortugalAPP.Resources.layout
             base.OnCreate(savedInstanceState);
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.tarefaGUI);
+            Logic.TarefaDados tarefadados = new Logic.TarefaDados();
 
             ListaTarefasView = FindViewById<ListView>(Resource.Id.listView1);
 

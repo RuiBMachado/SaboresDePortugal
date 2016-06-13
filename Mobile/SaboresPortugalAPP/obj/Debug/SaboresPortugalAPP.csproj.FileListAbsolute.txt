@@ -50,13 +50,15 @@ F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\r
 F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\res\layout\mapagui.xml
 F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\res\layout\criticagui.xml
 F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\res\values\strings.xml
-F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\res\drawable\icon.png
 F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\R.cs.flag
 F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\uploadflags.txt
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\res\drawable\artsfon.com_75955.jpg
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\res\drawable\sabores_de_portugal.ico
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\obj\Debug\res\drawable\icon.png
+F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\bin\Debug\SaboresPortugalAPP.dll.mdb
 F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\bin\Debug\Java.Interop.dll.mdb
 F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\bin\Debug\Mono.Android.dll.mdb
 F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\bin\Debug\mscorlib.dll.mdb
-F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\bin\Debug\SaboresPortugalAPP.dll.mdb
 F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\bin\Debug\System.ComponentModel.Composition.dll.mdb
 F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\bin\Debug\System.Core.dll.mdb
 F:\Users\Alexandre Mirra\Desktop\BlaBlaBla\Mobile\SaboresPortugalAPP\bin\Debug\System.dll.mdb
