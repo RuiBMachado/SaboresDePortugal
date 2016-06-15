@@ -20,7 +20,9 @@ namespace SaboresPortugalAPP.Resources.layout
             base.OnCreate(savedInstanceState);
 
             // Set our view from the "main" layout resource
-            SetContentView(Resource.Layout.mapaGUI);
+            var geoUri = Android.Net.Uri.Parse("geo:0,0?q=34.99,-106.61(Tasca do Ze)");
+            var mapIntent = new Intent(Intent.ActionView, geoUri);
+            StartActivity(mapIntent);
         }
     }
 }

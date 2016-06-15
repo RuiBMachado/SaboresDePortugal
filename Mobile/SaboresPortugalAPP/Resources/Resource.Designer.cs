@@ -48,10 +48,19 @@ namespace SaboresPortugalAPP
 			public const int artsfon = 2130837504;
 			
 			// aapt resource value: 0x7f020001
-			public const int Icon = 2130837505;
+			public const int Beer_Bottle_48 = 2130837505;
 			
 			// aapt resource value: 0x7f020002
-			public const int sabores_de_portugal = 2130837506;
+			public const int Icon = 2130837506;
+			
+			// aapt resource value: 0x7f020003
+			public const int sabores_de_portugal = 2130837507;
+			
+			// aapt resource value: 0x7f020004
+			public const int transferir = 2130837508;
+			
+			// aapt resource value: 0x7f020005
+			public const int Waiter_48 = 2130837509;
 			
 			static Drawable()
 			{
@@ -69,17 +78,23 @@ namespace SaboresPortugalAPP
 			// aapt resource value: 0x7f050004
 			public const int button1 = 2131034116;
 			
-			// aapt resource value: 0x7f050005
-			public const int button2 = 2131034117;
-			
 			// aapt resource value: 0x7f050006
-			public const int button3 = 2131034118;
+			public const int button2 = 2131034118;
+			
+			// aapt resource value: 0x7f050007
+			public const int button3 = 2131034119;
+			
+			// aapt resource value: 0x7f050008
+			public const int button4 = 2131034120;
 			
 			// aapt resource value: 0x7f050003
 			public const int editText1 = 2131034115;
 			
-			// aapt resource value: 0x7f050007
-			public const int listView1 = 2131034119;
+			// aapt resource value: 0x7f050005
+			public const int imageView1 = 2131034117;
+			
+			// aapt resource value: 0x7f050009
+			public const int listView1 = 2131034121;
 			
 			// aapt resource value: 0x7f050000
 			public const int textView1 = 2131034112;
@@ -107,10 +122,10 @@ namespace SaboresPortugalAPP
 			public const int criticaGUI = 2130903040;
 			
 			// aapt resource value: 0x7f030001
-			public const int mainmenuGUI = 2130903041;
+			public const int CriticaMENUGUI = 2130903041;
 			
 			// aapt resource value: 0x7f030002
-			public const int mapaGUI = 2130903042;
+			public const int mainmenuGUI = 2130903042;
 			
 			// aapt resource value: 0x7f030003
 			public const int tarefaGUI = 2130903043;

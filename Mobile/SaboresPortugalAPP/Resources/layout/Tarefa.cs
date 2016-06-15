@@ -40,7 +40,7 @@ namespace SaboresPortugalAPP.Resources.layout
             ListaTarefasView.ItemClick += (sender, e) =>
             {
 
-                StartActivity(typeof(Resources.layout.Critica));
+                StartActivity(typeof(Resources.layout.CriticaMENU));
             };
 
 

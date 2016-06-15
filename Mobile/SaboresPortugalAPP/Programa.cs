@@ -8,7 +8,7 @@ using Android.OS;
 
 namespace SaboresPortugalAPP
 {
-    [Activity(Label = "SaboresPortugalAPP", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "Sabores de Portugal", MainLauncher = true, Icon = "@drawable/waiter_48")]
     public class MainActivity : Activity
     {
 
@@ -31,11 +31,7 @@ namespace SaboresPortugalAPP
                 StartActivity(typeof(Resources.layout.Tarefa));
             };
 
-            mapa.Click += (sender, e) =>
-            {
-
-                StartActivity(typeof(Resources.layout.Mapa));
-            };
+           
         }
         }
 }

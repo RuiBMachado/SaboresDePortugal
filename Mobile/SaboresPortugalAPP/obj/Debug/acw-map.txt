@@ -6,6 +6,10 @@ SaboresPortugalAPP.Resources.layout.Critica, SaboresPortugalAPP;md54937ced3a9ffc
 SaboresPortugalAPP.Resources.layout.Critica, SaboresPortugalAPP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54937ced3a9ffcc345ba5ae92cfe6331d.Critica
 SaboresPortugalAPP.Resources.layout.Critica;md54937ced3a9ffcc345ba5ae92cfe6331d.Critica
 saboresportugalapp.resources.layout.Critica;md54937ced3a9ffcc345ba5ae92cfe6331d.Critica
+SaboresPortugalAPP.Resources.layout.CriticaMENU, SaboresPortugalAPP;md54937ced3a9ffcc345ba5ae92cfe6331d.CriticaMENU
+SaboresPortugalAPP.Resources.layout.CriticaMENU, SaboresPortugalAPP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54937ced3a9ffcc345ba5ae92cfe6331d.CriticaMENU
+SaboresPortugalAPP.Resources.layout.CriticaMENU;md54937ced3a9ffcc345ba5ae92cfe6331d.CriticaMENU
+saboresportugalapp.resources.layout.CriticaMENU;md54937ced3a9ffcc345ba5ae92cfe6331d.CriticaMENU
 SaboresPortugalAPP.Resources.layout.Mapa, SaboresPortugalAPP;md54937ced3a9ffcc345ba5ae92cfe6331d.Mapa
 SaboresPortugalAPP.Resources.layout.Mapa, SaboresPortugalAPP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54937ced3a9ffcc345ba5ae92cfe6331d.Mapa
 SaboresPortugalAPP.Resources.layout.Mapa;md54937ced3a9ffcc345ba5ae92cfe6331d.Mapa

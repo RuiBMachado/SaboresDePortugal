@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="SaboresPortugalAPP.SaboresPortugalAPP" android:versionCode="1" android:versionName="1.0">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="SaboresPortugal.SaboresPortugal" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
   <!--suppress UsesMinSdkAttributes-->
   <uses-sdk android:minSdkVersion="16" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-  <application android:label="SaboresPortugalAPP" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
-    <activity android:icon="@drawable/icon" android:label="SaboresPortugalAPP" android:name="md5ed533ed78f031664de1659d84e41859f.MainActivity">
+  <application android:label="SaboresPortugal" android:icon="@drawable/waiter_48" android:name="mono.android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:icon="@drawable/waiter_48" android:label="Sabores de Portugal" android:name="md5ed533ed78f031664de1659d84e41859f.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
     <activity android:label="Critica" android:name="md54937ced3a9ffcc345ba5ae92cfe6331d.Critica" />
+    <activity android:label="CriticaMENU" android:name="md54937ced3a9ffcc345ba5ae92cfe6331d.CriticaMENU" />
     <activity android:label="Mapa" android:name="md54937ced3a9ffcc345ba5ae92cfe6331d.Mapa" />
     <activity android:label="Tarefa" android:name="md54937ced3a9ffcc345ba5ae92cfe6331d.Tarefa" />
-    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="SaboresPortugalAPP.SaboresPortugalAPP.mono.MonoRuntimeProvider.__mono_init__" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="SaboresPortugal.SaboresPortugal.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">
       <intent-filter>
         <action android:name="mono.android.intent.action.SEPPUKU" />
-        <category android:name="mono.android.intent.category.SEPPUKU.SaboresPortugalAPP.SaboresPortugalAPP" />
+        <category android:name="mono.android.intent.category.SEPPUKU.SaboresPortugal.SaboresPortugal" />
       </intent-filter>
     </receiver>
   </application>
+  <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyCmqz7R9ILIZh6WJn-CgmyFYC8qKb2cMpk" />
 </manifest>
