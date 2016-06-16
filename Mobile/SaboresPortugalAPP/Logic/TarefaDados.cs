@@ -27,6 +27,7 @@ namespace SaboresPortugalAPP.Logic
         public int telefone;
         public String email;
 
+
         public TarefaDados(int id, String dataI, String dataF, String nome, float longitude, float latitude, String desc,
             String local, String rua, String codP, int tel, String email)
         {

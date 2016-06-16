@@ -29,18 +29,22 @@ namespace SaboresPortugalAPP.Resources.layout
             Logic.TarefaDados tarefadados = new Logic.TarefaDados();
 
             ListaTarefasView = FindViewById<ListView>(Resource.Id.listView1);
-
+            
+           
             ListaTarefas = new List<string>();
             ListaTarefas.Add("Tasca");
             ListaTarefas.Add("Ze do pipo");
             ListaTarefas.Add("Avo do Gtox restaurante");
             ArrayAdapter<string> ListaTarefasAdapter = new ArrayAdapter<string>(this, Android.Resource.Layout.SimpleListItem1,ListaTarefas);
             ListaTarefasView.Adapter = ListaTarefasAdapter;
-
+            
             ListaTarefasView.ItemClick += (sender, e) =>
             {
-
-                StartActivity(typeof(Resources.layout.CriticaMENU));
+                Intent i = new Intent(this, typeof(Resources.layout.CriticaMENU));
+                String nome = ListaTarefasView.GetItemAtPosition(e.Position).ToString();
+                i.PutExtra("restaurante",nome);
+                //String a = ListaTarefas[position-1];
+                StartActivity(i);
             };
 
 

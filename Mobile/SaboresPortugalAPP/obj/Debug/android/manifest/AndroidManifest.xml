@@ -12,7 +12,7 @@
       </intent-filter>
     </activity>
     <activity android:label="Critica" android:name="md54937ced3a9ffcc345ba5ae92cfe6331d.Critica" />
-    <activity android:label="CriticaMENU" android:name="md54937ced3a9ffcc345ba5ae92cfe6331d.CriticaMENU" />
+    <activity android:label="Critica" android:name="md54937ced3a9ffcc345ba5ae92cfe6331d.CriticaMENU" />
     <activity android:label="Mapa" android:name="md54937ced3a9ffcc345ba5ae92cfe6331d.Mapa" />
     <activity android:label="Tarefa" android:name="md54937ced3a9ffcc345ba5ae92cfe6331d.Tarefa" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="SaboresPortugal.SaboresPortugal.mono.MonoRuntimeProvider.__mono_init__" />

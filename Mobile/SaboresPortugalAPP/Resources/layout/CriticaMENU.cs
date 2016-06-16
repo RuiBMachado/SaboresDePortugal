@@ -12,15 +12,18 @@ using Android.Widget;
 
 namespace SaboresPortugalAPP.Resources.layout
 {
-    [Activity(Label = "CriticaMENU")]
+    [Activity(Label = "Critica")]
     public class CriticaMENU : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
+            
 
             // Create your application here
             SetContentView(Resource.Layout.CriticaMENUGUI);
+            TextView nomeRestaurante =FindViewById<TextView>(Resource.Id.textView1);
+            nomeRestaurante.Text = Intent.GetStringExtra("restaurante");
 
             Button critica = FindViewById<Button>(Resource.Id.button1);
             Button mapa = FindViewById<Button>(Resource.Id.button2);
