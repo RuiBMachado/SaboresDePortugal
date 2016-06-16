@@ -20,6 +20,8 @@ namespace SaboresPortugalAPP.Resources.layout
             base.OnCreate(savedInstanceState);
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.criticaGUI);
+            TextView nomeRestaurante = FindViewById<TextView>(Resource.Id.textView3);
+            nomeRestaurante.Text = Intent.GetStringExtra("restaurante");
 
             // Create intent to Open Image applications like Gallery, Google Photos
             Button imagem = FindViewById<Button>(Resource.Id.button1);

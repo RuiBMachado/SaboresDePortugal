@@ -30,13 +30,17 @@ namespace SaboresPortugalAPP.Resources.layout
 
             critica.Click += (sender, e) =>
             {
-
-                StartActivity(typeof(Resources.layout.Critica));
+                Intent i = new Intent(this, typeof(Resources.layout.Critica));
+                String nome = Intent.GetStringExtra("restaurante");
+                i.PutExtra("restaurante", nome);
+                StartActivity(i);
             };
             mapa.Click += (sender, e) =>
             {
-
-                StartActivity(typeof(Resources.layout.Mapa));
+                Intent i = new Intent(this, typeof(Resources.layout.Mapa));
+                String nome = Intent.GetStringExtra("restaurante");
+                i.PutExtra("restaurante", nome);
+                StartActivity(i);
             };
         }
         }

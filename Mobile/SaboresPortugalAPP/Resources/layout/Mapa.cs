@@ -18,9 +18,10 @@ namespace SaboresPortugalAPP.Resources.layout
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
+            string nome = Intent.GetStringExtra("restaurante");
 
             // Set our view from the "main" layout resource
-            var geoUri = Android.Net.Uri.Parse("geo:0,0?q=34.99,-106.61(Tasca do Ze)");
+            var geoUri = Android.Net.Uri.Parse("geo:0,0?q=34.99,-106.61("+nome+")");
             var mapIntent = new Intent(Intent.ActionView, geoUri);
             StartActivity(mapIntent);
         }

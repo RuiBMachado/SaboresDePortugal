@@ -6,16 +6,10 @@
     <TextView
         android:text="Tarefa : "
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:layout_width="83.0dp"
+        android:layout_width="378.0dp"
         android:layout_height="wrap_content"
         android:id="@+id/textView1"
         android:layout_marginRight="28.0dp" />
-    <TextView
-        android:text="Large Text"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/textView2" />
     <Button
         android:text="Realizar Crítica"
         android:layout_width="match_parent"

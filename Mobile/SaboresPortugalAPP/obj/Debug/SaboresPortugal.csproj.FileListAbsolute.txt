@@ -18,6 +18,5 @@ C:\Users\Alexandre Mirra\Desktop\BlaBlaBla-master\Mobile\SaboresPortugalAPP\obj\
 C:\Users\Alexandre Mirra\Desktop\BlaBlaBla-master\Mobile\SaboresPortugalAPP\obj\Debug\R.cs.flag
 C:\Users\Alexandre Mirra\Desktop\BlaBlaBla-master\Mobile\SaboresPortugalAPP\obj\Debug\uploadflags.txt
 C:\Users\Alexandre Mirra\Desktop\BlaBlaBla-master\Mobile\SaboresPortugalAPP\obj\Debug\res\drawable\waiter_48.png
-C:\Users\Alexandre Mirra\Desktop\BlaBlaBla-master\Mobile\SaboresPortugalAPP\obj\Debug\SaboresPortugal.csprojResolveAssemblyReference.cache
 C:\Users\Alexandre Mirra\Desktop\BlaBlaBla-master\Mobile\SaboresPortugalAPP\obj\Debug\SaboresPortugalAPP.dll.mdb
 C:\Users\Alexandre Mirra\Desktop\BlaBlaBla-master\Mobile\SaboresPortugalAPP\bin\Debug\SaboresPortugalAPP.dll.mdb
