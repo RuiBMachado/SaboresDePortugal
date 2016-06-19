@@ -18,8 +18,10 @@ namespace SaboresPortugalAPP.Logic
         public List<String> voz;
         public String nomeRestaurante;
         public int idRestaurante;
-        public float longitude;
-        public float latitude;
+        public double longitude;
+        public double latitude;
+        public String latitude1;
+        public String longitude1;
         public String descricao;
         public String localidade;
         public String rua;
@@ -42,6 +44,13 @@ namespace SaboresPortugalAPP.Logic
 
 
 
+        }
+
+        public TarefaDados(String nome, string longitude1, string latitude1)
+        {
+            this.nomeRestaurante = nome;
+            this.longitude1 = longitude1;
+            this.latitude1 = latitude1;
         }
 
         public TarefaDados()

@@ -25,6 +25,9 @@ namespace SaboresPortugalAPP.Resources.layout
             TextView nomeRestaurante =FindViewById<TextView>(Resource.Id.textView1);
             nomeRestaurante.Text = Intent.GetStringExtra("restaurante");
 
+
+            
+
             Button critica = FindViewById<Button>(Resource.Id.button1);
             Button mapa = FindViewById<Button>(Resource.Id.button2);
 
@@ -39,7 +42,11 @@ namespace SaboresPortugalAPP.Resources.layout
             {
                 Intent i = new Intent(this, typeof(Resources.layout.Mapa));
                 String nome = Intent.GetStringExtra("restaurante");
+                String latitude = Intent.GetStringExtra("latitude");
+                String longitude = Intent.GetStringExtra("longitude");
                 i.PutExtra("restaurante", nome);
+                i.PutExtra("latitude", latitude);
+                i.PutExtra("longitude", longitude);
                 StartActivity(i);
             };
         }
